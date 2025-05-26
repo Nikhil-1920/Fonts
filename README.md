@@ -34,17 +34,23 @@ This repository includes the following font families:
 Set San Francisco Mono as your editor font for optimal code readability:
 
 ```json
-// VS Code settings.json
+# VS Code settings.json
 {
   "editor.fontFamily": "'SF Mono', Consolas, monospace"
 }
 
-// For UI text
-font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+# For UI text
+{
+  font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+}
 
-// For code/monospace text
-font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
+# For code/monospace text
+{
+  font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
+}
 
-// For compact layouts
-font-family: 'SF Compact Display', sans-serif;
+# For compact layouts
+{
+  font-family: 'SF Compact Display', sans-serif;
+}
 ```
