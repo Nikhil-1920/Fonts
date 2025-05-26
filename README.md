@@ -38,19 +38,4 @@ Set San Francisco Mono as your editor font for optimal code readability:
 {
   "editor.fontFamily": "'SF Mono', Consolas, monospace"
 }
-
-# For UI text
-{
-  font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
-# For code/monospace text
-{
-  font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
-}
-
-# For compact layouts
-{
-  font-family: 'SF Compact Display', sans-serif;
-}
 ```
